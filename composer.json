@@ -1,0 +1,33 @@
+{
+  "name": "iVovolk/redsms",
+  "description": "A wrapper library for work with redsms.ru GET API",
+  "keywords": [
+    "redsms",
+    "API"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pavel Naumov",
+      "email": "huggbies@email.su",
+      "role": "Creator"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/iVovolk/redsms/issues",
+    "source": "https://github.com/iVovolk/redsms"
+  },
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "ivovolk\\redsms\\": ""
+    }
+  },
+  "extra": {
+  }
+}
