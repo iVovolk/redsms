@@ -1,6 +1,6 @@
 <?php
 
-namespace iVovolk\redsms;
+namespace ivovolk\redsms;
 
 class Query
 {
